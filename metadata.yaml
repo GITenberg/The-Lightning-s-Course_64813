@@ -1,5 +1,8 @@
 _repo: The-Lightning-s-Course_64813
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64813-h/images/cover.jpg
 creator:
   author:
     agent_name: Peterson, John Victor
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '33468'
     url: http://www.gutenberg.org/2009/agents/33468
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64813#The-Lightning-s-Course
 gutenberg_issued: '2021-03-13'
 gutenberg_type: Text
 identifiers:
